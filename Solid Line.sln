@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{C97D634D-015F-A88A-D380-88F4C728EBED}") = "Solid Line", "Assembly-CSharp.csproj", "{E42B2D20-FA95-15F0-8640-203498D71B82}"
+EndProject
+Project("{C97D634D-015F-A88A-D380-88F4C728EBED}") = "Solid Line", "Assembly-CSharp-Editor-firstpass.csproj", "{739D3DEC-F498-7905-8ACC-713924DFA4B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42B2D20-FA95-15F0-8640-203498D71B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42B2D20-FA95-15F0-8640-203498D71B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42B2D20-FA95-15F0-8640-203498D71B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42B2D20-FA95-15F0-8640-203498D71B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739D3DEC-F498-7905-8ACC-713924DFA4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739D3DEC-F498-7905-8ACC-713924DFA4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739D3DEC-F498-7905-8ACC-713924DFA4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739D3DEC-F498-7905-8ACC-713924DFA4B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
